@@ -1,6 +1,7 @@
 #Game with Python
 
 import random
+import time
 
 print("===================")
 print("Rock Paper Scissors")
